@@ -33,7 +33,7 @@ body{
         filter: hue-rotate(360deg);
     }
 }
-#div-img-1{
+#div-img{
     position: relative;
     width: 300px;
     height: 300px;
